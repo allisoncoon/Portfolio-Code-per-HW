@@ -1,0 +1,38 @@
+/* Navigation Styles */
+.nav {
+    width: 73%;
+    padding: 1%;
+    /*--display: inline-block;*/
+}
+
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    margin-left: auto;
+}
+
+.logo {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+
+}
+
+.heroImg {
+    height: 600px;
+    padding: 25px;
+   
+}
+
+.content {
+    width: 500px;
+    margin: 0 auto;
+
+}
+footer {
+    background-color: #373738;
+    color: white;
+    /*--add padding to center*/
+}
+/*target uls under the footer, step 10*/
